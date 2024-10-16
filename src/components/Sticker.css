@@ -1,0 +1,16 @@
+.sticker {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.sticker i {
+    font-size: 1.5rem;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.sticker i:hover {
+    color: #ffcc00 !important;
+}

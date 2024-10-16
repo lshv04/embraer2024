@@ -1,0 +1,30 @@
+.nav2 {
+    position: fixed;
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    justify-content: center !important;
+    z-index: 10;
+    margin-top: 7rem;
+}
+
+.navcont {
+    display: flex;
+    justify-content: center;
+}
+
+.nav2 li {
+    font-size: 1.5rem;
+    text-decoration: none;
+
+}
+
+.nav2 a {
+    text-decoration: none;
+    color: #fff !important;
+}
+
+.active2 {
+    text-decoration: underline !important;
+    text-underline-offset: 10px;
+}

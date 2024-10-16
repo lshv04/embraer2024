@@ -1,0 +1,29 @@
+.active {
+    color: #fff !important;
+    font-weight: 700;
+    text-decoration: underline;
+    text-underline-offset: 15px;
+
+}
+
+.nav-link {
+    color: #fff;
+    font-size: 1.5rem;
+}
+
+.nav-link:hover {
+    color: #fff;
+}
+
+#navcolor {
+    background-color: #0d1c5a !important;
+}
+
+#custom-toggler i.bi-list {
+    font-size: 1.5rem;
+    color: #fff !important;
+}
+
+#custom-toggler {
+    border: 2px solid white;
+}

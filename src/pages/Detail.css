@@ -1,0 +1,34 @@
+.detail {
+  position: relative;
+  background-image: url('../assets/banner10.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100%;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.detail::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.4);
+  z-index: 1;
+}
+
+.detail>* {
+  position: relative;
+  z-index: 2;
+}
+
+.card-transparent-body {
+  --bs-card-bg: transparent;
+  border: none;
+}
