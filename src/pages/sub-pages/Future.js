@@ -4,7 +4,7 @@ import "./Future.css";
 const Future = () => {
   return (
     <div className="container-fluid  future">
-      <div className="container ">
+      <div className="container slide-in-blurred-right">
         <h2 className="text-center">
           Ozires Silva: "Somos fruto do ambiente em que vivemos."
         </h2>

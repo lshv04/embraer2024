@@ -4,7 +4,7 @@ import "./Passion.css";
 const Passion = () => {
   return (
     <div className="container-fluid passion">
-      <div className="container ">
+      <div className="container slide-in-blurred-right ">
         <h1 className=" text-center"> Paixão por fazer a diferença</h1>
         <ul className="fontsize1">
           <li>

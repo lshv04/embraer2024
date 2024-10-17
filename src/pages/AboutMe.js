@@ -3,8 +3,8 @@ import "./Aboutme.css";
 
 const AboutMe = () => {
   return (
-    <div className="container-fluid aboutme">
-      <div className="container">
+    <div className="container-fluid aboutme ">
+      <div className="container slide-in-blurred-right">
         <h1>Sobre mim</h1>
         <ul className="fontsize1">
           <li>Nome: Leandro Hosken </li>

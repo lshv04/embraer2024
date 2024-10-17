@@ -4,7 +4,7 @@ import "./Past.css";
 const Past = () => {
   return (
     <div className="container-fluid past">
-      <div className="container ">
+      <div className="container slide-in-blurred-right">
         <ul className="fontsize1">
           <li>
             <p>

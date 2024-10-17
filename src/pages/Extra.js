@@ -18,7 +18,7 @@ const Extra = () => {
 
   return (
     <div className="container-fluid  extra g-0">
-      <div className="container g-0 my-5 ">
+      <div className="container g-0 my-5 slide-in-blurred-right">
         <div className="row g-0">
           <div className="col-12 col-md-6 col-lg-3 p-2">
             <form onSubmit={handleSubmit} className="d-flex ">

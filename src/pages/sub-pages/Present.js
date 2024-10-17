@@ -4,7 +4,7 @@ import "./Present.css";
 const Present = () => {
   return (
     <div className="container-fluid  present">
-      <div className="container ">
+      <div className="container slide-in-blurred-right">
         <ul className="fontsize1">
           <li>
             <p>Ipanema, único avião em série movido a etanol</p>
