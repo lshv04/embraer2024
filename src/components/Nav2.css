@@ -28,3 +28,11 @@
     text-decoration: underline !important;
     text-underline-offset: 10px;
 }
+
+@media (max-width: 768px) {
+  
+    .navcont {
+      margin-bottom: 3rem;
+    }
+  }
+  

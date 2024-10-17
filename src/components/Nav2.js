@@ -4,7 +4,7 @@ import "./Nav2.css";
 
 const Nav2 = () => {
   return (
-    <div className="navcont">
+    <div className="navcont ">
       <ul className="nav2">
         <li>
           <NavLink
