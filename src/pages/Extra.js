@@ -31,7 +31,7 @@ const Extra = () => {
                     name="input"
                     value={inputValue}
                     onChange={(e) => setInputValue(e.target.value)}
-                    placeholder="Search IATA Code here..."
+                    placeholder="EX:AA100..."
                     style={{ border: "none", boxShadow: "none" }}
                   />
                   <button type="submit" className="btn btn-primary ">

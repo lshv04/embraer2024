@@ -45,7 +45,7 @@ const Detail = () => {
           {data.data.map((item) => (
             <div
               className="col-12 col-md-5 mb-5 mt-5 pt-5 "
-              key={`${item.flight?.iata}-${item.flight_date}`}
+              key={`${item.flight?.iata}-${item.departure.estimated}`}
             >
               <Card className="h-100 shadow-sm card-transparent-body">
                 <Card.Header className="bg-primary text-white">
