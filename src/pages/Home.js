@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <div className="container-fluid home-container ">
       <div className="container  slide-in-blurred-right">
-        <h1>Bem vindo a minha apresentação!</h1>
+        <h1>Bem-vindo à minha apresentação!</h1>
         <p className="fontsize1">Técnicas e tecnologias utilizadas:</p>
         <ul>
           <li className="fontsize1  ">React</li>

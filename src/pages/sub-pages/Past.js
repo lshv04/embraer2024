@@ -8,13 +8,13 @@ const Past = () => {
         <ul className="fontsize1">
           <li>
             <p>
-              Solida estratégia comercial, foco em resolver problemas e atender
+              Sólida estratégia comercial, foco em resolver problemas e atender
               demandas.
             </p>
           </li>
           <li>
             <p>
-              Nascida para para aviação regional com o Bandeirante, conquistou o
+              Nascida para a aviação regional com o Bandeirante, conquistou o
               mundo!
             </p>
           </li>

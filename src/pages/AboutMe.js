@@ -13,7 +13,7 @@ const AboutMe = () => {
           <li>Curso: Sistema de informação - UNA</li>
         </ul>
         <p className="fontsize1">
-          Tenho dezenas de projetos publicados no{" "}
+          Tenho vários projetos publicados no{" "}
           <a
             href="https://github.com/lshv04"
             target="_blank"

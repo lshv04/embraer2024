@@ -1,4 +1,3 @@
-
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import "./Extra.css";
@@ -46,7 +45,7 @@ const Extra = () => {
               <p className="fontsize1">
                 Este projeto foi desenvolvido por Leandro Hosken, utilizando as
                 melhores práticas de componentização e design responsivo,
-                garantindo performance e escalabilidade
+                garantindo performance e escalabilidade.
               </p>
             </div>
           </div>

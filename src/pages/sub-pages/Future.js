@@ -10,10 +10,10 @@ const Future = () => {
         </h2>
         <p className="text-center fontsize1">
           {" "}
-          Ambiente de vanguarda / resultados de vanguarda!
+          Ambiente de vanguarda, resultados de vanguarda!
         </p>
         <p className="text-center fontsize1">
-          Fundada revolucionando a aviação regional, hoje pretende revolucionar
+          Fundada para revolucionar a aviação regional, hoje busca revolucionar
           o transporte urbano.
         </p>
       </div>
