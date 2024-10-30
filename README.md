@@ -1,3 +1,6 @@
+
+![Blue Futuristic Technology Presentation (10)](https://github.com/user-attachments/assets/3c04b4cf-f51e-4dbe-bb2c-e05063491642)
+
 # Apresentação Embraer - 2024  
 
 Este projeto é um site de portfólio pessoal desenvolvido com o objetivo de criar uma apresentação para o processo seletivo da Embraer.
