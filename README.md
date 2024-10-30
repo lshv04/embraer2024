@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+# Apresentação Embraer - 2024  
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este projeto é um site de portfólio pessoal desenvolvido com o objetivo de criar uma apresentação para o processo seletivo da Embraer.
 
-## Available Scripts
 
-In the project directory, you can run:
+## 📁 Acesso ao projeto  
 
-### `npm start`
+[Veja o projeto final do curso em funcionamento](https://lshv04.github.io/embraer2024/#/).  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## ✔️ Técnicas e tecnologias utilizadas  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **React Router**:  
+  Paginação feita de forma componentizada, a fim de evitar o carregamento ao mudar de página.  
+- **React Hooks**:  
+  Utilizei `useState` e `useEffect` para criar o hook customizado `useFetch`, facilitando o processo de Fetch API. Também utilizei `useParams` e `useSearchParams`.  
+- **Bootstrap Grid**:  
+  Grid desenvolvido com Bootstrap para melhor responsividade e organização.  
+- **Bootstrap Spinner**:  
+  Spinner criado para exibir o carregamento durante o login.  
+- **Link Ativo**:  
+  Utilização de link ativo para melhorar a navegabilidade.  
 
-### `npm test`
+  ![image](https://github.com/user-attachments/assets/ea111e31-ded6-468e-81d5-78d3793dbd4a)  
+  ![image](https://github.com/user-attachments/assets/966c5286-78dc-4a7e-9f2a-4de9fbc51df6)  
+  ![image](https://github.com/user-attachments/assets/4e9d9eef-4dd1-42d8-88c2-bd4711b8c9e1)  
+  ![image](https://github.com/user-attachments/assets/9b83ef3f-540b-4707-a3e8-bc608a6503a5)  
+  ![image](https://github.com/user-attachments/assets/b3421264-c875-4fd0-9aa7-d8e9218ba275)  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+ 
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Neste repositório, você tem acesso a todo o material produzido no projeto.
